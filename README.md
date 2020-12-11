@@ -1,6 +1,6 @@
 # filtering_textual_data
 
-1.) vrt_parser_custom.py: this python scripts extract the
+1.) vrt_parser_custom.py: this python script extracts the
 web data coming from suomi24 finnish forum and
 groups the text segments by argument keyword –
 groupby
